@@ -1,2 +1,5 @@
-# ClasicoResume
-Foundational and Descriptive Data of My TechLead Journey.
+# Kenzie Academy CSS Assignment
+
+Complete your work inside of `style.css`
+
+Follow the instructions provided on my.kenzie.academy for this assignment.

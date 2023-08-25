@@ -1,0 +1,180 @@
+.allHeaders {
+    font-family: 'Rokkitt', 'Helvetica', 'Arial', and sans-serif;
+}
+
+.innerHeaders {
+    color: black;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+section, .mainDetails {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#ronnskshot {
+    margin-bottom: 20px;
+}
+
+.para_bottom_marg {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #444444; ;
+    text-decoration: none;
+}
+
+#topLink {
+    font-size: 16px;
+    color: #444444;
+    font-family: 'Lato', 'Helvetica', 'Arial', and sans-serif;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #E76514;
+    text-decoration: underline;
+}
+
+img:hover {
+  filter:brightness(100%);
+  border: 5px;
+  border-style:solid;
+  border-color: #dedede;
+}
+
+section >:nth-last-child(1) {
+    border-bottom: 1px;
+    border-style:solid;
+    border-color: #dedede;
+}
+
+section:last-child div:nth-last-child(1) {
+    border-bottom: 10px;
+    border-style:solid;
+    border-color: #dedede;
+}
+
+#f_lastBoader {
+    border-bottom: 10px;
+    border-style:solid;
+    border-color: #0C3769;
+}
+
+#t_lastBoader {
+    border-bottom: 20px;
+    border-style:solid;
+    border-color: #0B2B50;
+}
+
+#s_lastBoader {
+    border-bottom: 30px;
+    border-style:solid;
+    border-color: #0A213D;
+}
+
+html,
+body {
+    font-size: 20px;
+    color: #444444;
+    font-family: 'Lato', 'Helvetica', 'Arial', and sans-serif;
+    padding: 30px;
+    width: 800px;
+    margin: auto;
+}
+
+#contactDetails ul {
+    list-style: none;
+}
+
+.clear {
+    clear: both;
+   
+    border-bottom: 15px;
+    border-style:solid;
+    border-color: #0A213D;
+
+    border-bottom: 10px;
+    border-style:solid;
+    border-color: #0B2B50;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#name h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+#name h2 {
+    font-size: 1.5em;
+}
+
+#ronnskshot {
+    width: 12.5%;
+    float: left;
+    margin-right: 30px;
+}
+
+#ronnskshot img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+#name {
+    float: left;
+}
+
+#contactDetails {
+    float: right;
+}
+
+#contactDetails ul li {
+    font-size: 0.9em;
+    margin-bottom: 3px;
+}
+
+.sectionTitle {
+    float: left;
+    width: 25%;
+    color: #cf8a05;
+}
+
+.sectionContent {
+    float: right;
+    width: 72.5%;
+    margin-bottom: 20px;
+}
+
+.sectionTitle h1 {
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+.sectionContent h2 {
+    font-size: 1.5em;
+    margin-bottom: -2px;
+}
+
+.subDetails {
+    color: #228ECA;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 3px;
+}
+
+.keySkills {
+    list-style-type: none;
+    column-count: 1;
+    font-size: 1em;
+}
+
+.keySkills ul li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
