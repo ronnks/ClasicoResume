@@ -1,5 +1,3 @@
-# Kenzie Academy CSS Assignment
+# My Resume
 
-Complete your work inside of `style.css`
-
-Follow the instructions provided on my.kenzie.academy for this assignment.
+My first initial look of a solid base constructed classic resume.
